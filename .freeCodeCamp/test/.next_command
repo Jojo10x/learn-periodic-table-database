@@ -51,3 +51,39 @@ git push -u origin main
 git branch
 git branch
 git branch
+git log --oneline
+echo "# Periodic Table Project" > README.md
+git add element.sh
+git add element.sh
+git add README.md
+git commit -m "docs: add README file for the project"
+git log --oneline
+echo "# This script handles periodic table elements" >> element.sh
+git add element.sh
+git commit -m "fix: add comment to element.sh for clarityqweqweqweqwe"
+echo "# This script handles periodic table elements" >> element.qweqwesh
+git add element.sh
+git log --oneline
+__vsc_prompt_cmd_original
+git add READme.md
+echo "# This script handles periodic table elements" >> element.sh
+git add element.sh
+git log --oneline
+echo "cute"
+touch ele.sh
+git add ele.sh
+git add elem.sh
+git commit -m "fix: correct typo in element.sh"
+git add ele.sh
+git log --oneline
+git add .
+git commit -m "chore: update project dependencies"
+git add .
+git commit -m "test: add placeholder for test script"
+git log --oneline
+git add .
+git commit -m "test: add placeholder for test script"
+git log --oneline
+git rebase -i 7146774
+commit
+git log --oneline

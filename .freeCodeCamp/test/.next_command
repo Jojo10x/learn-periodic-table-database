@@ -48,3 +48,4 @@ git branch
 git add element.sh
 git branch -m master main
 git push -u origin main
+git branch
